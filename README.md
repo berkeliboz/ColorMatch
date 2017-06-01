@@ -4,7 +4,7 @@ Welcome to Github page for ColorMatch.
 
 Color Match is my first solo Unity game project that I am planning to release for both iOS and Android.
 
-Color Match is mainly built on Android.
+Only testable versions of the game are added to Github.
 
 Color Match is built by using Unity Collaborate and Unity Cloud Build services.
 
@@ -41,5 +41,7 @@ Rules for "Score Attack"      -----//Game Mode names are subjected to change lat
 3: Player gains points based on difficulty multiplier
 
 
+
+for feedback please feel free to mail berkeboz96@gmail.com
 
 
