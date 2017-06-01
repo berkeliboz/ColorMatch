@@ -41,7 +41,7 @@ Rules for "Score Attack"      -----//Game Mode names are subjected to change lat
 3: Player gains points based on difficulty multiplier
 
 
-
+_____________________________________________
 for feedback please feel free to mail berkeboz96@gmail.com
 
 
