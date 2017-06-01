@@ -9,7 +9,18 @@ public class colorStack : MonoBehaviour {
     public Color32[] detectedColors = new Color32[2];
     public int generalCounter = 0;
 
+    public bool matchIsMade = false;
+
+    public string[] detectedColorTags = new string[2];
 
 
+
+    void Update()
+    {
+        if (generalCounter == 100)
+            generalCounter = 0;
+
+
+    }
 
 }

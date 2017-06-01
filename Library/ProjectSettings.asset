@@ -70,12 +70,14 @@ PlayerSettings:
   captureSingleScreen: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
+  Force IOS Speakers When Recording: 0
   submitAnalytics: 1
   usePlayerLog: 1
   bakeCollisionMeshes: 0
   forceSingleInstance: 0
   resizableWindow: 0
   useMacAppStoreValidation: 0
+  macAppStoreCategory: public.app-category.games
   gpuSkinning: 0
   graphicsJobs: 0
   xboxPIXTextureCapture: 0
@@ -135,6 +137,8 @@ PlayerSettings:
       depthFormat: 1
   protectGraphicsMemory: 0
   useHDRDisplay: 0
+  targetPixelDensity: 0
+  resolutionScalingMode: 0
   applicationIdentifier:
     Android: com.Deneme.Deneme
   buildNumber: {}
@@ -204,6 +208,7 @@ PlayerSettings:
   iOSMetalForceHardShadows: 0
   metalEditorSupport: 1
   metalAPIValidation: 1
+  iOSRenderExtraFrameOnPause: 1
   appleDeveloperTeamID: 
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
@@ -248,6 +253,7 @@ PlayerSettings:
   wiiUGamePadStartupScreen: {fileID: 0}
   wiiUDrcBufferDisabled: 0
   wiiUProfilerLibPath: 
+  playModeTestRunnerEnabled: 0
   actionOnDotNetUnhandledException: 1
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
@@ -259,6 +265,7 @@ PlayerSettings:
   switchSocketMemoryPoolSize: 6144
   switchSocketAllocatorPoolSize: 128
   switchSocketConcurrencyLimit: 14
+  switchScreenResolutionBehavior: 2
   switchUseCPUProfiler: 0
   switchApplicationID: 0x0005000C10000001
   switchNSODependencies: 
@@ -364,6 +371,7 @@ PlayerSettings:
   switchParentalControl: 0
   switchAllowsScreenshot: 1
   switchDataLossConfirmation: 0
+  switchSupportedNpadStyles: 3
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -401,7 +409,6 @@ PlayerSettings:
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
   ps4Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
-  ps4UseDebugIl2cppLibs: 0
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -476,7 +483,7 @@ PlayerSettings:
   psp2UseLibLocation: 0
   psp2InfoBarOnStartup: 0
   psp2InfoBarColor: 0
-  psp2UseDebugIl2cppLibs: 0
+  psp2ScriptOptimizationLevel: 0
   psmSplashimage: {fileID: 0}
   splashScreenBackgroundSourceLandscape: {fileID: 0}
   splashScreenBackgroundSourcePortrait: {fileID: 0}
@@ -499,6 +506,7 @@ PlayerSettings:
   scriptingBackend: {}
   incrementalIl2cppBuild: {}
   additionalIl2CppArgs: 
+  scriptingRuntimeVersion: 0
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
@@ -582,6 +590,7 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
     Build: 1
+    Collab: 1
     UNet: 1
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
@@ -589,4 +598,5 @@ PlayerSettings:
   projectName: ColorMatch
   organizationId: berkeliboz
   cloudEnabled: 0
-  enableNewInputSystem: 0
+  enableNativePlatformBackendsForNewInputSystem: 0
+  disableOldInputManagerSupport: 0
