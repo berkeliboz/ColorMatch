@@ -1,3 +1,7 @@
+*Project name "Color Match" is subject to change. 
+*"Color Match" is a project in progress.
+
+
 Hello !!
 
 Welcome to Github page for ColorMatch.
@@ -7,6 +11,7 @@ Color Match is my first solo Unity game project that I am planning to release fo
 Only testable versions of the game are added to Github.
 
 Color Match is built by using Unity Collaborate and Unity Cloud Build services.
+
 
 
 
@@ -42,6 +47,6 @@ Rules for "Score Attack"      -----//Game Mode names are subjected to change lat
 
 
 _____________________________________________
-for feedback please feel free to mail berkeboz96@gmail.com
+for any feedback please feel free to send a mail to berkeboz96@gmail.com
 
 
