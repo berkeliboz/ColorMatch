@@ -20,6 +20,7 @@ TagManager:
   - 11
   - 12
   - 13
+  - looper
   layers:
   - Default
   - TransparentFX
@@ -56,4 +57,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UP
+    uniqueID: 3968232013
     locked: 0
