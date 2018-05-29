@@ -1,28 +1,27 @@
-*Project name "Color Match" is subject to change. 
-*"Color Match" is a project in progress.
+﻿# Game of Colors
 
+*~~Project name "Color Match" is subject to change.~~ *"Color Match" is a project in progress.
 
-Hello !!
+**Color Match is renamed to Game of Colors**
+
+**Game of Colors is moved to Unity Collaborate services. This repository is not updated**
+
 
 Welcome to Github page for ColorMatch.
 
 Color Match is my first solo Unity game project that I am planning to release for both iOS and Android.
 
-Only testable versions of the game are added to Github.
+## General View
 
-Color Match is built by using Unity Collaborate and Unity Cloud Build services.
+![alt text](https://github.com/berkeliboz/ColorMatch/blob/master/img/GeneralView.PNG)
 
+----------
 
-
-
-
-_____________________________________________
 How to play Color Match
-
 
 1: Spot and press two boxes with same color.
 
-Rules for "Time Attack"       -----//Game Mode names are subjected to change later.
+Rules for "Time Attack" -----//Game Mode names are subjected to change later.
 
 1: If the player presses two different colored boxes, he loses the game.
 
@@ -30,10 +29,9 @@ Rules for "Time Attack"       -----//Game Mode names are subjected to change lat
 
 3: If the player presses all the colors correctly for 100 seconds, player beats "Time Attack" mode.
 
-_____________________________________________
+----------
 
-
-Rules for "Score Attack"      -----//Game Mode names are subjected to change later.
+Rules for "Score Attack" -----//Game Mode names are subjected to change later.
 
 1: If the player presses two different colored boxes, the panel changes to previous one.
 
@@ -45,8 +43,13 @@ Rules for "Score Attack"      -----//Game Mode names are subjected to change lat
 
 3: Player gains points based on difficulty multiplier
 
+----------
+## Main Screen
 
-_____________________________________________
-for any feedback please feel free to send a mail to berkeboz96@gmail.com
+![alt text](https://github.com/berkeliboz/ColorMatch/blob/master/img/main%20screen.PNG)
 
+## Shop Screen
 
+![alt text](https://github.com/berkeliboz/ColorMatch/blob/master/img/shop%20screen.PNG)
+
+for any feedback please feel free to send a mail to  [berkeboz96@gmail.com](mailto:berkeboz96@gmail.com)
