@@ -46,7 +46,7 @@ Rules for "Score Attack" -----//Game Mode names are subjected to change later.
 ----------
 ## Main Screen
 
-![alt text](https://github.com/berkeliboz/ColorMatch/blob/master/img/main%20screen.PNG){:height="24px" width="48px"}
+![alt text](https://github.com/berkeliboz/ColorMatch/blob/master/img/main%20screen.PNG | width=48)
 
 ## Shop Screen
 
